@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="61px" height="20px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip4">
+      <path d="M 310 143  C 304.45 143  300 138.55  300 133  L 300 133  C 300 127.45  304.45 123  310 123  L 351 123  C 356.55 123  361 127.45  361 133  L 361 133  C 361 138.55  356.55 143  351 143  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -300 -123 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="61" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC5SURBVDhP7ZCtDQJBEEa/3bEUQAknKAFzEoEgoYdLrh4CoQokAgECQQmUQAFIZo/ZZNwluzMJAnHPzI948+1i4k84DkvtzEStFfiMfVroYMIophkoXSR5o4sqRnGG5pL8apU7xBmRM5+wG+RIGadYIGoQJXlFHuRpg/ZO0g0dtTqMCFrLjI7zS6K36MJTFyP8X2GQZpxifoPjpibNOMQiBa3Qx4cuihjF/EGitSS96+JHHNJWuwkvwBd8BzE8nFdYZQAAAABJRU5ErkJggg==" x="300px" y="123px" mask="url(#clip4)" />
+  </g>
+</svg>
